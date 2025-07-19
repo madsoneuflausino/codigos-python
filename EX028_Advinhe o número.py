@@ -1,6 +1,6 @@
 import random
 
-num = int(input('Pensei em um número entre 0 e 5. Que número é esse?: '))
+num = int(input('Pensei em um número entre 0 e 5.\nQue número é esse?\n '))
 n = random.randint(0,5)
 if num == n:
     print('Parabéns, você acertou o número aleatório gerado.')
