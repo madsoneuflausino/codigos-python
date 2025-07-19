@@ -1,0 +1,5 @@
+nome = str(input('Digite seu nome: ')).strip()
+separar = nome.split()
+print(f'Nome completo: {nome}')
+print(f'Primeiro: {separar[0].capitalize()}')
+print(f'ùltimo: {separar[-1].capitalize()}')
