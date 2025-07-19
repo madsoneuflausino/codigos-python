@@ -1,2 +1,2 @@
-# codigos-python
-aulas e exercicios para aprendizagem de Python
+# Códigos Python
+Aulas e exercícios para aprendizagem de Python
